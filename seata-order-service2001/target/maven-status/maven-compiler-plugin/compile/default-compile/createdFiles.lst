@@ -1,0 +1,11 @@
+com\atguigu\spingcloud\alibaba\SeataOrderMainApp2001.class
+com\atguigu\spingcloud\alibaba\service\impl\OrderServiceImpl.class
+com\atguigu\spingcloud\alibaba\service\StorageService.class
+com\atguigu\spingcloud\alibaba\config\DataSourceProxyConfig.class
+com\atguigu\spingcloud\alibaba\domain\Order.class
+com\atguigu\spingcloud\alibaba\service\AccountService.class
+com\atguigu\spingcloud\alibaba\config\MyBatisConfig.class
+com\atguigu\spingcloud\alibaba\domain\CommonResult.class
+com\atguigu\spingcloud\alibaba\controller\OrderController.class
+com\atguigu\spingcloud\alibaba\service\OrderService.class
+com\atguigu\spingcloud\alibaba\dao\OrderDao.class

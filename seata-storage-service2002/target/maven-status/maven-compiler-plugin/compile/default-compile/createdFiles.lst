@@ -1,0 +1,9 @@
+com\atguigu\spingcloud\dao\StorageDao.class
+com\atguigu\spingcloud\domain\Storage.class
+com\atguigu\spingcloud\domain\CommonResult.class
+com\atguigu\spingcloud\config\DataSourceProxyConfig.class
+com\atguigu\spingcloud\SeataStorageServiceApplication2002.class
+com\atguigu\spingcloud\service\impl\StorageServiceImpl.class
+com\atguigu\spingcloud\controller\StorageController.class
+com\atguigu\spingcloud\service\StorageService.class
+com\atguigu\spingcloud\config\MyBatisConfig.class

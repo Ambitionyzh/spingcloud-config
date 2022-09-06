@@ -1,0 +1,3 @@
+com\atguigu\spingcloud\config\GateWayConfig.class
+com\atguigu\spingcloud\filter\MyLogGateWayFilter.class
+com\atguigu\spingcloud\GatewayMain9527.class

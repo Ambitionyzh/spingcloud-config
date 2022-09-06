@@ -1,0 +1,4 @@
+D:\JAVA\cloud2020\cloud-consumer-fegin-hystrix-order80\src\main\java\com\atguigu\spingcloud\controller\OrderHystrixController.java
+D:\JAVA\cloud2020\cloud-consumer-fegin-hystrix-order80\src\main\java\com\atguigu\spingcloud\service\PaymentFallbackService.java
+D:\JAVA\cloud2020\cloud-consumer-fegin-hystrix-order80\src\main\java\com\atguigu\spingcloud\OrderHystrixMain80.java
+D:\JAVA\cloud2020\cloud-consumer-fegin-hystrix-order80\src\main\java\com\atguigu\spingcloud\service\PaymentHystrixService.java

@@ -1,0 +1,4 @@
+com\atguigu\spingcloud\OrderFeignMain80.class
+com\atguigu\spingcloud\service\PaymentFeignService.class
+com\atguigu\spingcloud\config\FeignConfig.class
+com\atguigu\spingcloud\controller\OrderFeignController.class
